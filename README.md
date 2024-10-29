@@ -6,7 +6,7 @@ Hi everyone, I am a graduate student at Carnegie Mellon University.
 3 fun facts about me:
 1. My nickname is celery.
 2. I watched Friends so much that I memorized the dialogue.
-3. Ironically, I do not like celery.
+3. Ironically, I do not like celery (the vegetable).
 
 # What I hope to learn
 
@@ -16,3 +16,5 @@ Hi everyone, I am a graduate student at Carnegie Mellon University.
 
 # Portfolio
 Scroll down for more cool projects!
+
+|[home page](https://celerysally.github.io/portfolio/)||[visualizing debt](https://celerysally.github.io/portfolio/)|[critique by design](https://celerysally.github.io/portfolio/)|[final project I](https://celerysally.github.io/portfolio/)|[final project II](https://celerysally.github.io/portfolio/)|[final project III](https://celerysally.github.io/portfolio/)|
