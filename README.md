@@ -17,4 +17,4 @@ Hi everyone, I am a graduate student at Carnegie Mellon University.
 # Portfolio
 Scroll down for more cool projects!
 
-|[home page](https://celerysally.github.io/portfolio/)|[visualizing debt](https://celerysally.github.io/portfolio/)|[critique by design](https://celerysally.github.io/portfolio/)|[final project I](https://celerysally.github.io/portfolio/)|[final project II](https://celerysally.github.io/portfolio/)|[final project III](https://celerysally.github.io/portfolio/)|
+|[home page](https://celerysally.github.io/portfolio/home_page)|[visualizing debt](https://celerysally.github.io/portfolio/visualizing_debt)|[critique by design](https://celerysally.github.io/portfolio/critique_by_design)|[final project I](https://celerysally.github.io/portfolio/finalproject_I)|[final project II](https://celerysally.github.io/portfolio/finalproject_II)|[final project III](https://celerysally.github.io/portfolio/finalproject_III)|
