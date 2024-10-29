@@ -4,6 +4,7 @@ navigation: true
 
 Welcome! This is my public portfolio for the Telling Stories with Data course at Carnegie Mellon University!
 
+
 # About me
 Hi everyone, I am a graduate student at Carnegie Mellon University.
 
