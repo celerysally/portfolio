@@ -80,7 +80,7 @@ The conflict emerges as both frequent travelers and tourists are confronted with
 
 ![6.](https://celerysally.github.io/portfolio/compare.jpeg)
 
-This visualization is comparing the average fares between Uber rides and multi-passenger rides.
+- Comparison of the average fares between Uber rides and multi-passenger rides.
 
 
 
