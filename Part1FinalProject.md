@@ -9,7 +9,7 @@
 
 **High-level Summary 📝**
 
-This project focuses on the steady increase in Uber fares from JFK and LaGuardia (LGA) airports to New York City and vice versa during peak season. With transportation costs climbing, this topic offers an insightful narrative about how rising fares are impacting both tourists and New Yorkers who rely on rideshare services for airport transfers. The growing cost of Uber rides highlights the tension between convenience and affordability, and the data will explore how these fare hikes affect passenger choices and the overall transportation landscape in New York City.
+This project examines the consistent rise in Uber fares between JFK and LaGuardia (LGA) airports and New York City, particularly during the peak season in June each year. With transportation costs climbing, this topic offers an insightful narrative about how rising fares are impacting both tourists and New Yorkers who rely on rideshare services for airport transfers. The growing cost of Uber rides highlights the tension between convenience and affordability, and the data will explore how these fare hikes affect passenger choices and the overall transportation landscape in New York City.
 
 
 **Story Arc**
@@ -53,9 +53,15 @@ The conflict emerges as both frequent travelers and tourists are confronted with
 
 ![1.](https://celerysally.github.io/portfolio/2.5.jpeg)
 
+- Basic data visualization of how many people take the Uber when traveling between JFK/LGA and Manhattan
+
 ![2.](https://celerysally.github.io/portfolio/jfk.jpeg)
 
+- Comparing the average fare during peak season annually (JFK -> NYC)
+
 ![3.](https://celerysally.github.io/portfolio/lga.jpeg)
+
+- Comparing the average fare during peak season annually (LGA -> NYC)
 
 
 **Conflict**
@@ -63,12 +69,18 @@ The conflict emerges as both frequent travelers and tourists are confronted with
 
 ![4.](https://celerysally.github.io/portfolio/car.jpeg)
 
+- Data visualization about what goes into the Uber total fare
+
 ![5.](https://celerysally.github.io/portfolio/gas.jpeg)
+
+- Providing data about the fluctuating gas prices
 
 
 **Resolution**
 
 ![6.](https://celerysally.github.io/portfolio/compare.jpeg)
+
+This visualization is comparing the average fares between Uber rides and multi-passenger rides.
 
 
 
