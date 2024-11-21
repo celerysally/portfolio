@@ -4,10 +4,10 @@
 # Part I: Final Project
 
 
-## Topic: Steady Increase in Uber Fares in New York City During Peak Season
+## Topic: Steady Increase in Uber Fares in New York City During Peak Season🚕
 ## Outline 
 
-**High-level Summary**
+**High-level Summary📝**
 This project focuses on the steady increase in Uber fares from JFK and LaGuardia (LGA) airports to New York City and vice versa during peak season. With transportation costs climbing, this topic offers an insightful narrative about how rising fares are impacting both tourists and New Yorkers who rely on rideshare services for airport transfers. The growing cost of Uber rides highlights the tension between convenience and affordability, and the data will explore how these fare hikes affect passenger choices and the overall transportation landscape in New York City.
 
 **Story Arc**
@@ -25,6 +25,7 @@ This project focuses on the steady increase in Uber fares from JFK and LaGuardia
 For many travelers flying into New York City, taking an Uber from major airports like JFK and LaGuardia (LGA) has become the go-to choice for convenience. It helps them save time and minimizes the likelihood of having to carry heavy luggage up and down the stairs when traveling between the airport and Manhattan. However, with the rise in fares, travelers are starting to question whether the comfort and convenience of a rideshare are still worth the cost. Once known for its affordability and efficiency, Uber is now seen as an expensive option for airport transport.
 
 **Conflict**
+
 The conflict emerges as both frequent travelers and tourists are confronted with significant fare hikes that strain their travel budgets. As inflation continues to rise, Uber fares are following suit, creating a financial burden for many passengers. This presents an opportunity to explore the reasons behind the price increases, including surge pricing, airport fees, fluctuating fuel prices, and spikes in demand. The growing costs are forcing passengers to reconsider their transportation options, raising the question of whether Uber can remain a viable choice for airport travel.
 
 **Resolution**
@@ -37,8 +38,8 @@ The conflict emerges as both frequent travelers and tourists are confronted with
   - Group ride-sharing companies: These services allow you to share a ride with others going to similar locations, significantly lowering the fare.
   - Arising new for-hire companies (Revel, etc.): Keep an eye on emerging transportation startups like Revel, which offers electric vehicles for hire.
 
-**Sketches**
-
+**Sketches🖼️**
+The data presented in the sketches is hypothetical and not official.
 
 ![1.](https://celerysally.github.io/portfolio/2.5.jpeg)
 
@@ -53,18 +54,22 @@ The conflict emerges as both frequent travelers and tourists are confronted with
 ![6.](https://celerysally.github.io/portfolio/compare.jpeg)
 
 
-**Data Sources**
-1. The data provides For-Hire Vehicle (FHV) trip records contain dispatch information, including the base license number and pick-up details. While the TLC publishes these records, they do not guarantee their accuracy or completeness, as they rely on submissions from service providers and perform routine reviews to ensure accuracy.
+**Data Sources💁🏻‍♀️**
+1. The data provides For-Hire Vehicle (FHV) trip records containing dispatch information, including the base license number and pick-up details. While the TLC publishes these records, they do not guarantee their accuracy or completeness, as they rely on submissions from service providers and perform routine reviews to ensure accuracy.
 Source: New York City Taxi and Limousine Commission (TLC). "TLC Trip Record Data." Accessed November 20, 2024. https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page.
 
 2. The U.S. Energy Information Administration (EIA) provides comprehensive data on gasoline and diesel fuel prices across the United States. This dataset tracks average retail prices for gasoline and diesel fuel by region and by type (regular, premium, etc.). It also includes historical price data, which allows users to analyze fluctuations in fuel costs over time. The data reflects weekly and monthly averages, and factors such as seasonal changes, regional differences, and broader economic influences like supply disruptions or price hikes due to global oil price changes.
 Source: U.S. Energy Information Administration. "Gasoline and Diesel Fuel Price Data." Last modified October 27, 2023. https://www.eia.gov/petroleum/gasdiesel/.
 
 
-**Method and Medium**
+**Method and Medium🖥️**
 For the completion of my project, I will be using the tools below:
-- **Shorthand**: for developing my story narrative and delivering it effectively
-- **Tableau**: for creating data visualizations that are interactive
-- **Canva**: for creating custom visuals that support my story arc
+- **Shorthand**
+  - To craft and present my story narrative in an engaging
+- **Tableau**
+  - To design interactive data visualizations that enhance understanding
+- **Canva**
+  - To create tailored visuals that complement and strengthen my story arc
+
 
 
