@@ -4,19 +4,23 @@
 # Part I: Final Project
 
 
-## Topic: Steady Increase in Uber Fares in New York City During Peak Season🚕
+## Topic: Steady Increase in Uber Fares in New York City During Peak Season 🚕
 ## Outline 
 
-**High-level Summary📝**
+**High-level Summary 📝**
+
 This project focuses on the steady increase in Uber fares from JFK and LaGuardia (LGA) airports to New York City and vice versa during peak season. With transportation costs climbing, this topic offers an insightful narrative about how rising fares are impacting both tourists and New Yorkers who rely on rideshare services for airport transfers. The growing cost of Uber rides highlights the tension between convenience and affordability, and the data will explore how these fare hikes affect passenger choices and the overall transportation landscape in New York City.
 
+
 **Story Arc**
+
 <p align="center">
 <img src="story.jpeg" height=600>
 </p> 
 
 
 **Target Audience**
+
 - Travelers or Tourists who frequently use Uber for airport transportation, especially those traveling to or from JFK and LGA.
 - New Yorkers and commuters who are interested in the cost of air travel and the convenience of rideshare services.
 
@@ -29,16 +33,19 @@ For many travelers flying into New York City, taking an Uber from major airports
 The conflict emerges as both frequent travelers and tourists are confronted with significant fare hikes that strain their travel budgets. As inflation continues to rise, Uber fares are following suit, creating a financial burden for many passengers. This presents an opportunity to explore the reasons behind the price increases, including surge pricing, airport fees, fluctuating fuel prices, and spikes in demand. The growing costs are forcing passengers to reconsider their transportation options, raising the question of whether Uber can remain a viable choice for airport travel.
 
 **Resolution**
+
 - Exploring multi-passenger options
   - Recently, Uber has released an airport shuttle between LGA and Midtown Manhattan. Although it is a temporary service with limited routes, this is an alternate service provided by Uber.
 - Examining any signs of regulation or changes that could impact Uber pricing
-  - As there could be new local, state, or national regulations that could influence ride-hailing pricing which could potentially include government-imposed fare caps, new taxes, or zoning laws affecting ride-sharing operations. Changes in insurance requirements, driver classification, or environmental standards could also influence the cost structure of Uber and similar services, making it important to stay informed about policy shifts that might increase or decrease pricing.
-- Seeking alternate and more afforable transportations
+  - There could be new local, state, or national regulations that influence ride-hailing pricing, which could include government-imposed fare caps, new taxes, or zoning laws affecting ride-sharing operations. Changes in insurance requirements, driver classification, or environmental standards could also influence the cost structure of Uber and similar services, making it important to stay informed about policy shifts that might increase or decrease pricing.
+- Seeking alternate and more affordable transportation
   - Express airport shuttles: These shuttles often have set schedules and are a more cost-effective choice compared to traditional ride-hailing. They may also provide a more reliable service since they are dedicated to airport transport.
   - Group ride-sharing companies: These services allow you to share a ride with others going to similar locations, significantly lowering the fare.
   - Arising new for-hire companies (Revel, etc.): Keep an eye on emerging transportation startups like Revel, which offers electric vehicles for hire.
 
-**Sketches🖼️**
+
+**Sketches 🖼️**
+
 The data presented in the sketches is hypothetical and not official.
 
 ![1.](https://celerysally.github.io/portfolio/2.5.jpeg)
@@ -54,7 +61,8 @@ The data presented in the sketches is hypothetical and not official.
 ![6.](https://celerysally.github.io/portfolio/compare.jpeg)
 
 
-**Data Sources💁🏻‍♀️**
+**Data Sources 💁🏻‍♀️**
+
 1. The data provides For-Hire Vehicle (FHV) trip records containing dispatch information, including the base license number and pick-up details. While the TLC publishes these records, they do not guarantee their accuracy or completeness, as they rely on submissions from service providers and perform routine reviews to ensure accuracy.
 Source: New York City Taxi and Limousine Commission (TLC). "TLC Trip Record Data." Accessed November 20, 2024. https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page.
 
@@ -62,7 +70,8 @@ Source: New York City Taxi and Limousine Commission (TLC). "TLC Trip Record Data
 Source: U.S. Energy Information Administration. "Gasoline and Diesel Fuel Price Data." Last modified October 27, 2023. https://www.eia.gov/petroleum/gasdiesel/.
 
 
-**Method and Medium🖥️**
+**Method and Medium 🖥️**
+
 For the completion of my project, I will be using the tools below:
 - **Shorthand**
   - To craft and present my story narrative in an engaging
