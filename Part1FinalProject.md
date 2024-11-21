@@ -21,6 +21,7 @@ This project focuses on the steady increase in Uber fares from JFK and LaGuardia
 - New Yorkers and commuters who are interested in the cost of air travel and the convenience of rideshare services.
 
 **Set Up**
+
 For many travelers flying into New York City, taking an Uber from major airports like JFK and LaGuardia (LGA) has become the go-to choice for convenience. It helps them save time and minimizes the likelihood of having to carry heavy luggage up and down the stairs when traveling between the airport and Manhattan. However, with the rise in fares, travelers are starting to question whether the comfort and convenience of a rideshare are still worth the cost. Once known for its affordability and efficiency, Uber is now seen as an expensive option for airport transport.
 
 **Conflict**
