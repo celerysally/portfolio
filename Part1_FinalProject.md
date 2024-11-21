@@ -1,11 +1,65 @@
 # Part I: Final Project
 
-## Topic: Attracting More Visitors through Social Media
+## Topic: Steady Increase in Uber Fares in New York City During Peak Season
 ## Outline 
 
 **High-level Summary**
+This project focuses on the steady increase in Uber fares from JFK and LaGuardia (LGA) airports to New York City and vice versa during peak season. With transportation costs climbing, this topic offers an insightful narrative about how rising fares are impacting both tourists and New Yorkers who rely on rideshare services for airport transfers. The growing cost of Uber rides highlights the tension between convenience and affordability, and the data will explore how these fare hikes affect passenger choices and the overall transportation landscape in New York City.
 
-by examining the data provided by the Metropolitan Museum of Art
-breaking down the operating expenses, revenue, and attendance percentage, we can look into their financial aspect. however, attendance has not fully recovered compared to post-covid; therefore, the Met needs to strategize capturing more visitors through their social media platform (with the data of having the second most followers among the top prestigious museums in the States)
 
-target audience: the marketing team at the Met
+**Story Arc**
+<p align="center">
+<img src="story.jpeg" height=600>
+</p> 
+
+**Target Audience**
+- Travelers or Tourists who frequently use Uber for airport transportation, especially those traveling to or from JFK and LGA.
+- New Yorkers and commuters who are interested in the cost of air travel and the convenience of rideshare services.
+
+**Set Up**
+For many travelers flying into New York City, taking an Uber from major airports like JFK and LaGuardia (LGA) has become the go-to choice for convenience. It helps them save time and minimizes the likelihood of having to carry heavy luggage up and down the stairs when traveling between the airport and Manhattan. However, with the rise in fares, travelers are starting to question whether the comfort and convenience of a rideshare are still worth the cost. Once known for its affordability and efficiency, Uber is now seen as an expensive option for airport transport.
+
+**Conflict**
+The conflict emerges as both frequent travelers and tourists are confronted with significant fare hikes that strain their travel budgets. As inflation continues to rise, Uber fares are following suit, creating a financial burden for many passengers. This presents an opportunity to explore the reasons behind the price increases, including surge pricing, airport fees, fluctuating fuel prices, and spikes in demand. The growing costs are forcing passengers to reconsider their transportation options, raising the question of whether Uber can remain a viable choice for airport travel.
+
+**Resolution**
+- Exploring multi-passenger options
+  - Recently, Uber has released an airport shuttle between LGA and Midtown Manhattan. Although it is a temporary service with limited routes, this is an alternate service provided by Uber.
+- Examining any signs of regulation or changes that could impact Uber pricing
+  - As there could be new local, state, or national regulations that could influence ride-hailing pricing which could potentially include government-imposed fare caps, new taxes, or zoning laws affecting ride-sharing operations. Changes in insurance requirements, driver classification, or environmental standards could also influence the cost structure of Uber and similar services, making it important to stay informed about policy shifts that might increase or decrease pricing.
+- Seeking alternate and more afforable transportations
+  - Express airport shuttles: These shuttles often have set schedules and are a more cost-effective choice compared to traditional ride-hailing. They may also provide a more reliable service since they are dedicated to airport transport.
+  - Group ride-sharing companies: These services allow you to share a ride with others going to similar locations, significantly lowering the fare.
+  - Arising new for-hire companies (Revel, etc.): Keep an eye on emerging transportation startups like Revel, which offers electric vehicles for hire.
+
+**Sketches**
+
+
+(https://celerysally.github.io/portfolio/2.5.jpeg)
+
+![2.](https://celerysally.github.io/portfolio/jfk.jpeg)
+
+![3.](https://celerysally.github.io/portfolio/lga.jpeg)
+
+![4.](https://celerysally.github.io/portfolio/car.jpeg)
+
+![5.](https://celerysally.github.io/portfolio/gas.jpeg)
+
+![6.](https://celerysally.github.io/portfolio/compare.jpeg)
+
+
+**Data Sources**
+1. The data provides For-Hire Vehicle (FHV) trip records contain dispatch information, including the base license number and pick-up details. While the TLC publishes these records, they do not guarantee their accuracy or completeness, as they rely on submissions from service providers and perform routine reviews to ensure accuracy.
+Source: New York City Taxi and Limousine Commission (TLC). "TLC Trip Record Data." Accessed November 20, 2024. https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page.
+
+2. The U.S. Energy Information Administration (EIA) provides comprehensive data on gasoline and diesel fuel prices across the United States. This dataset tracks average retail prices for gasoline and diesel fuel by region and by type (regular, premium, etc.). It also includes historical price data, which allows users to analyze fluctuations in fuel costs over time. The data reflects weekly and monthly averages, and factors such as seasonal changes, regional differences, and broader economic influences like supply disruptions or price hikes due to global oil price changes.
+Source: U.S. Energy Information Administration. "Gasoline and Diesel Fuel Price Data." Last modified October 27, 2023. https://www.eia.gov/petroleum/gasdiesel/.
+
+
+**Method and Medium**
+For the completion of my project, I will be using the tools below:
+- **Shorthand**: for developing my story narrative and delivering it effectively
+- **Tableau**: for creating data visualizations that are interactive
+- **Canva**: for creating custom visuals that support my story arc
+
+
