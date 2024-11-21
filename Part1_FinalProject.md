@@ -1,5 +1,5 @@
 
-#Part I: Final Project
+# Part I: Final Project
 
 ## Topic: Steady Increase in Uber Fares in New York City During Peak Season
 ## Outline 
@@ -8,10 +8,7 @@
 This project focuses on the steady increase in Uber fares from JFK and LaGuardia (LGA) airports to New York City and vice versa during peak season. With transportation costs climbing, this topic offers an insightful narrative about how rising fares are impacting both tourists and New Yorkers who rely on rideshare services for airport transfers. The growing cost of Uber rides highlights the tension between convenience and affordability, and the data will explore how these fare hikes affect passenger choices and the overall transportation landscape in New York City.
 
 
-**Story Arc**
-<p align="center">
-<img src="story.jpeg" height=600>
-</p> 
+
 
 **Target Audience**
 - Travelers or Tourists who frequently use Uber for airport transportation, especially those traveling to or from JFK and LGA.
