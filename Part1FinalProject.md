@@ -46,7 +46,7 @@ The conflict emerges as both frequent travelers and tourists are confronted with
 
 ## Sketches 🖼️
 
-The data presented in the sketches is hypothetical and not official.
+**The data presented in the sketches is hypothetical and not official.**
 
 ![1.](https://celerysally.github.io/portfolio/2.5.jpeg)
 
