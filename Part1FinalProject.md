@@ -44,7 +44,7 @@ The conflict emerges as both frequent travelers and tourists are confronted with
   - Arising new for-hire companies (Revel, etc.): Keep an eye on emerging transportation startups like Revel, which offers electric vehicles for hire.
 
 
-**Sketches 🖼️**
+## Sketches 🖼️
 
 The data presented in the sketches is hypothetical and not official.
 
@@ -61,7 +61,7 @@ The data presented in the sketches is hypothetical and not official.
 ![6.](https://celerysally.github.io/portfolio/compare.jpeg)
 
 
-**Data Sources 💁🏻‍♀️**
+## Data Sources 💁🏻‍♀️
 
 1. The data provides For-Hire Vehicle (FHV) trip records containing dispatch information, including the base license number and pick-up details. While the TLC publishes these records, they do not guarantee their accuracy or completeness, as they rely on submissions from service providers and perform routine reviews to ensure accuracy.
 Source: New York City Taxi and Limousine Commission (TLC). "TLC Trip Record Data." Accessed November 20, 2024. https://www.nyc.gov/site/tlc/about/tlc-trip-record-data.page.
@@ -70,7 +70,7 @@ Source: New York City Taxi and Limousine Commission (TLC). "TLC Trip Record Data
 Source: U.S. Energy Information Administration. "Gasoline and Diesel Fuel Price Data." Last modified October 27, 2023. https://www.eia.gov/petroleum/gasdiesel/.
 
 
-**Method and Medium 🖥️**
+## Method and Medium 🖥️
 
 For the completion of my project, I will be using the tools below:
 - **Shorthand**
