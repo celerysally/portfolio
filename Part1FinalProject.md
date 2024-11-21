@@ -48,17 +48,28 @@ The conflict emerges as both frequent travelers and tourists are confronted with
 
 **The data presented in the sketches is hypothetical and not official.**
 
+**Set Up**
+
+
 ![1.](https://celerysally.github.io/portfolio/2.5.jpeg)
 
 ![2.](https://celerysally.github.io/portfolio/jfk.jpeg)
 
 ![3.](https://celerysally.github.io/portfolio/lga.jpeg)
 
+
+**Conflict**
+
+
 ![4.](https://celerysally.github.io/portfolio/car.jpeg)
 
 ![5.](https://celerysally.github.io/portfolio/gas.jpeg)
 
+
+**Resolution**
+
 ![6.](https://celerysally.github.io/portfolio/compare.jpeg)
+
 
 
 ## Data Sources 💁🏻‍♀️
@@ -68,6 +79,7 @@ Source: New York City Taxi and Limousine Commission (TLC). "TLC Trip Record Data
 
 2. The U.S. Energy Information Administration (EIA) provides comprehensive data on gasoline and diesel fuel prices across the United States. This dataset tracks average retail prices for gasoline and diesel fuel by region and by type (regular, premium, etc.). It also includes historical price data, which allows users to analyze fluctuations in fuel costs over time. The data reflects weekly and monthly averages, and factors such as seasonal changes, regional differences, and broader economic influences like supply disruptions or price hikes due to global oil price changes.
 Source: U.S. Energy Information Administration. "Gasoline and Diesel Fuel Price Data." Last modified October 27, 2023. https://www.eia.gov/petroleum/gasdiesel/.
+
 
 
 ## Method and Medium 🖥️
