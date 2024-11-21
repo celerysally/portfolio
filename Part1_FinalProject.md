@@ -35,7 +35,7 @@ The conflict emerges as both frequent travelers and tourists are confronted with
 **Sketches**
 
 
-(https://celerysally.github.io/portfolio/2.5.jpeg)
+![1.](https://celerysally.github.io/portfolio/2.5.jpeg)
 
 ![2.](https://celerysally.github.io/portfolio/jfk.jpeg)
 
