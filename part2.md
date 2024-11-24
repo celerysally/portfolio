@@ -44,12 +44,18 @@ Questions List:
 8. How does the color scheme make you feel?
 9. If you could make any improvements, what would it be?
 
-s
-| Question | Interviewee 1 | Interviewee 2 | Interviewee 3 | 
-| -------- | -------- |
-| *What mode of transportation do you typically use to travel between JFK/LGA and NYC?*
 |
-
+| Question | Interviewee 1 | Interviewee 2 | Interviewee 3 | 
+| -------- | ------------- | ------------- | ------------- |
+| _What mode of transportation do you typically use to travel between JFK/LGA and NYC?_ | 
+| _Is there a specific reason for that transportation?_ |
+| _Who do you think the target audience is?_ |
+| _Was the content clear to follow?_ |
+| _Do the data visualizations align with the main topic?_ |
+| _What is one key takeaway?_ |
+| _Were the visualizations easy to understand?_ |
+| _How does the color scheme make you feel?_ |
+| _If you could make any improvements, what would it be?_ |
 
 ### 4. Findings from the Interviews 🔍
 
