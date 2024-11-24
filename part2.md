@@ -26,7 +26,7 @@ Many of my friends and colleagues visit NYC during the summer, many of them bein
 
 To ensure a variety of perspectives based on different usage patterns, I decided to interview:
 - An international traveler
-- A CMU Phd student who visits NYC every summer
+- A CMU Phd student who visits NYC every summer 
 - A music producer who has a busy schedule and travels frequently
 
 ### 3. Interview Script 💬
@@ -34,7 +34,7 @@ To ensure a variety of perspectives based on different usage patterns, I decided
 | Question | Interviewee 1 | Interviewee 2 | Interviewee 3 | 
 | -------- | ------------- | ------------- | ------------- |
 | _What mode of transportation do you typically use to travel between JFK/LGA and NYC?_ | Usually, I take an Uber or Lyft. | Subway or sometimes Uber. | Always Uber or Lyft. |
-| _Is there a specific reason for that transportation?_ | I tend to take the most comfortable transportation, especially a 12-14 hour flight. Also, with the big and heavy luggage, I'm not taking them up and down the stairs. | Subway: It's cheaper, and I don't like cars that much because there is alternate transportation that's environmentally friendly. Uber: If I have 2 suitcases, I'll Uber because there's a lack of elevators, and the narrow stairs make it hard to move with suitcases. Also, the turnstiles are too small for the suitcases. | Saving time and comfort are my top priorities. |
+| _Is there a specific reason for that transportation?_ | I tend to take the most comfortable transportation, especially after a 12-14 hour flight. Also, with the big and heavy luggage, I'm not taking them up and down the stairs. | Subway: It's cheaper, and I don't like cars that much because there is alternate transportation that's environmentally friendly. Uber: If I have 2 suitcases, I'll Uber because there's a lack of elevators, and the narrow stairs make it hard to move with suitcases when using the subway. Also, the turnstiles are too small for the suitcases. | Saving time and comfort are my top priorities. |
 | _Who do you think the target audience is?_ | Tourists or anyone visiting NYC. | People who cannot take public transportation because they don't have a train. Or for people who are late at night and find it unsafe to take the train late at night. | People who travel from the airport to NYC and vice versa.
 | _Was the content clear to follow?_ | It was clear to follow, although there was a lot of information overall. | It looks clear to follow. | Yes, it was pretty clear. |
 | _Do the data visualizations align with the main topic?_ | Yes, they clearly align with the topic. | Yes. | It does. |
@@ -45,13 +45,20 @@ To ensure a variety of perspectives based on different usage patterns, I decided
 
 ### 4. Findings from the Interviews 🔍
 
+Here are 10 key takeaways from the interview:
 
-
-
-
+- Respondents typically use Uber or Lyft to travel between JFK/LGA and NYC, with a few opting for the subway depending on convenience and luggage.
+- One respondent values the subway for its lower cost and environmental friendliness, while others choose Uber or Lyft for their comfort, particularly when carrying multiple suitcases.
+- The target audience that the interviewees had in mind was not the same.
+- Respondents found the content relatively easy to follow.
+- The data visualizations were deemed to align well with the main topic of airport transportation options, helping to support the message.
 
 ### 5. Changes I Plan on Implementing to My Visualizations 💡
 
+- Provide further explanation and include additional details for clarity
+- Reevaluate the color scheme and select the most appropriate colors
+- Consider alternative graphs and charts that could better present the data
+- Avoid overwhelming the audience with excessive data
 
 ## Moodboard 📓
 
@@ -65,7 +72,11 @@ Source:
 - Philadelphia International Airport. "Ride App Services." Accessed November 24, 2024. [https://www.phl.org/getting-around/ride-app-services](https://www.phl.org/getting-around/ride-app-services).
 
 ## Navigate 
-
+[home page](https://celerysally.github.io/portfolio/home_page.md)
+[visualizing debt](https://celerysally.github.io/portfolio/visualizing_debt.html)
+[critique by design](https://celerysally.github.io/portfolio/critique_by_design.html)
+[Final Project Part I](https://celerysally.github.io/portfolio/Part1FinalProject.html)
+[Final Project Part III](https://celerysally.github.io/portfolio/final_project_III.md)
 
 
 
