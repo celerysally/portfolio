@@ -1,4 +1,4 @@
-| [home page](https://celerysally.github.io/portfolio/home_page.md) | [visualizing debt](https://celerysally.github.io/portfolio/visualizing_debt.html) | [critique by design](https://celerysally.github.io/portfolio/critique_by_design.html) | [Final Project Part I](https://celerysally.github.io/portfolio/Part1FinalProject.html) | [Final Project Part II](https://celerysally.github.io/portfolio/part2.md) | [Final Project Part III](https://celerysally.github.io/portfolio/final_project_III.md)|
+| [home page](https://celerysally.github.io/portfolio/home_page.md) | [visualizing debt](https://celerysally.github.io/portfolio/visualizing_debt.html) | [critique by design](https://celerysally.github.io/portfolio/critique_by_design.html) | [Final Project Part I](https://celerysally.github.io/portfolio/Part1FinalProject.html) | [Final Project Part II](https://celerysally.github.io/portfolio/part2.md) | [Final Project Part III](https://celerysally.github.io/portfolio/final_project_III.md) |
 
 Welcome! This is my public portfolio for the Telling Stories with Data course at Carnegie Mellon University!
 
