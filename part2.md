@@ -58,7 +58,7 @@ To ensure a variety of perspectives based on different usage patterns, I decided
 ![moodboard](moodboard.png)
 
 Source:
-- Pixabay. Passport, Flag, Travel, Visa. March 27, 2017. [(https://pixabay.com/photos/passport-flag-travel-visa-2642172/)](https://pixabay.com/photos/passport-flag-travel-visa-2642172/).
+- Pixabay. Passport, Flag, Travel, Visa. March 27, 2017. [https://pixabay.com/photos/passport-flag-travel-visa-2642172/](https://pixabay.com/photos/passport-flag-travel-visa-2642172/).
 - Pixabay. Statue of Liberty, New York, Statue. May 23, 2017. [https://pixabay.com/photos/statue-of-liberty-new-york-statue-267949/](https://pixabay.com/photos/statue-of-liberty-new-york-statue-267949/).
 - Pixabay. NYC Taxi, America, Traffic, Manhattan. June 15, 2020. [https://pixabay.com/photos/nyc-taxi-america-traffic-manhattan-4665939/](https://pixabay.com/photos/nyc-taxi-america-traffic-manhattan-4665939/).
 - Pexels. A Car with the Word Uber on It. Accessed November 24, 2024. [https://www.pexels.com/photo/a-car-with-the-word-uber-on-it-27639789/](https://www.pexels.com/photo/a-car-with-the-word-uber-on-it-27639789/).
