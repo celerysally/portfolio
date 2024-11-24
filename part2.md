@@ -25,26 +25,25 @@
 Many of my friends and colleagues visit NYC during the summer, many of them being current CMU graduate students who value convenience and comfort when they travel.
 
 To ensure a variety of perspectives based on different usage patterns, I decided to interview:
-- A CMU Phd student who visits NYC frequently
-- A music producer who has a busy schedule
 - An international traveler
+- A CMU Phd student who visits NYC every summer
+- A music producer who has a busy schedule and travels frequently
 
 ### 3. Interview Script 💬
 
 | Question | Interviewee 1 | Interviewee 2 | Interviewee 3 | 
 | -------- | ------------- | ------------- | ------------- |
-| _What mode of transportation do you typically use to travel between JFK/LGA and NYC?_ | 
-| _Is there a specific reason for that transportation?_ |
-| _Who do you think the target audience is?_ |
-| _Was the content clear to follow?_ |
-| _Do the data visualizations align with the main topic?_ |
-| _What is one key takeaway?_ |
-| _Were the visualizations easy to understand?_ |
-| _How does the color scheme make you feel?_ |
-| _If you could make any improvements, what would it be?_ |
+| _What mode of transportation do you typically use to travel between JFK/LGA and NYC?_ | Usually, I take an Uber or Lyft. | 
+| _Is there a specific reason for that transportation?_ | I tend to take the most comfortable transportation, especially a 12-14 hour flight. Also, with the big and heavy luggage, I'm not taking them up and down the stairs. | 
+| _Who do you think the target audience is?_ | Tourists or anyone visiting NYC. | 
+| _Was the content clear to follow?_ | It was clear to follow, although there was a lot of information overall. | 
+| _Do the data visualizations align with the main topic?_ | Yes, they clearly align with the topic. |
+| _What is one key takeaway?_ | That depending on the location, an uber trip could cost as much as a flight ticket. That's actually wild. | 
+| _Were the visualizations easy to understand?_ | They were simple and easy to understand. |
+| _How does the color scheme make you feel?_ | I liked the consistency of colors that you used. I liked how I wasn't overwhelmed with multiple colors. | 
+| _If you could make any improvements, what would it be?_ | Could have used other types of charts or graphs. | 
 
 ### 4. Findings from the Interviews 🔍
-
 
 
 
@@ -56,6 +55,7 @@ To ensure a variety of perspectives based on different usage patterns, I decided
 
 ## Moodboard 📓
 
+![moodboard](moodboard.png)
 
 ## Navigate 
 
