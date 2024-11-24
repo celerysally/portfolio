@@ -38,7 +38,7 @@ To ensure a variety of perspectives based on different usage patterns, I decided
 | _Who do you think the target audience is?_ | Tourists or anyone visiting NYC. | 
 | _Was the content clear to follow?_ | It was clear to follow, although there was a lot of information overall. | 
 | _Do the data visualizations align with the main topic?_ | Yes, they clearly align with the topic. |
-| _What is one key takeaway?_ | That depending on the location, an uber trip could cost as much as a flight ticket. That's actually wild. | 
+| _What is one key takeaway?_ | Depending on the location, an Uber trip could cost as much as a flight ticket. That's actually wild. | 
 | _Were the visualizations easy to understand?_ | They were simple and easy to understand. |
 | _How does the color scheme make you feel?_ | I liked the consistency of colors that you used. I liked how I wasn't overwhelmed with multiple colors. | 
 | _If you could make any improvements, what would it be?_ | Could have used other types of charts or graphs. | 
@@ -58,7 +58,11 @@ To ensure a variety of perspectives based on different usage patterns, I decided
 ![moodboard](moodboard.png)
 
 Source:
-- Pixabay. Passport, Flag, Travel, Visa. March 27, 2017. [link](https://pixabay.com/photos/passport-flag-travel-visa-2642172/).
+- Pixabay. Passport, Flag, Travel, Visa. March 27, 2017. [(https://pixabay.com/photos/passport-flag-travel-visa-2642172/)](https://pixabay.com/photos/passport-flag-travel-visa-2642172/).
+- Pixabay. Statue of Liberty, New York, Statue. May 23, 2017. [https://pixabay.com/photos/statue-of-liberty-new-york-statue-267949/](https://pixabay.com/photos/statue-of-liberty-new-york-statue-267949/).
+- Pixabay. NYC Taxi, America, Traffic, Manhattan. June 15, 2020. [https://pixabay.com/photos/nyc-taxi-america-traffic-manhattan-4665939/](https://pixabay.com/photos/nyc-taxi-america-traffic-manhattan-4665939/).
+- Pexels. A Car with the Word Uber on It. Accessed November 24, 2024. [https://www.pexels.com/photo/a-car-with-the-word-uber-on-it-27639789/](https://www.pexels.com/photo/a-car-with-the-word-uber-on-it-27639789/).
+- Philadelphia International Airport. "Ride App Services." Accessed November 24, 2024. [https://www.phl.org/getting-around/ride-app-services](https://www.phl.org/getting-around/ride-app-services).
 
 ## Navigate 
 
