@@ -40,7 +40,7 @@ To ensure a variety of perspectives based on different usage patterns, I decided
 | _Do the data visualizations align with the main topic?_ | Yes, they clearly align with the topic. | Yes. | It does. |
 | _What is one key takeaway?_ | Depending on the location, an Uber trip could cost as much as a flight ticket. That's actually wild. | Uber charges more to travelers during peak season, which is unfair to consumers. | Did not know Uber has an airport shuttle. |
 | _Were the visualizations easy to understand?_ | They were easy to understand. | Yes. | Yes, they were pretty simple, too. |
-| _How does the color scheme make you feel?_ | I liked the consistency of colors that you used. | Looks nice. | I liked how I wasn't overwhelmed with multiple colors. | I like it, but I could have used other colors. |
+| _How does the color scheme make you feel?_ | I liked the consistency of colors that you used. | Looks nice. | I like it, but you could have used other colors. |
 | _If you could make any improvements, what would it be?_ | Could have used a variety of different types of charts or graphs. | I would use a color scheme to represent negative points in the graph in red, positive in green, and neutral in yellow. | Carefully choose what colors to use. |
 
 ### 4. Findings from the Interviews 🔍
