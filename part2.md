@@ -4,7 +4,7 @@
 # Part II: Final Project
 
 ## Storyboard ✍️
-[Shorthand Storyboard](https://carnegiemellon.shorthandstories.com)
+[Shorthand Storyboard](https://carnegiemellon.shorthandstories.com/celery/index.html)
 
 ## User Research & Interviews 🕵️‍♀️
 
