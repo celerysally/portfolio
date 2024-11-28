@@ -45,7 +45,7 @@ To ensure a variety of perspectives based on different usage patterns, I decided
 
 ### 4. Findings from the Interviews 🔍
 
-Here are 10 key takeaways from the interview:
+Here are 5 key takeaways from the interview:
 
 - Respondents typically use Uber or Lyft to travel between JFK/LGA and NYC, with a few opting for the subway depending on convenience and luggage.
 - One respondent values the subway for its lower cost and environmental friendliness, while others choose Uber or Lyft for their comfort, particularly when carrying multiple suitcases.
