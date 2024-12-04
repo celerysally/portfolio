@@ -4,7 +4,7 @@
 # Part II: Final Project
 
 ## Storyboard ✍️
-[Shorthand Storyboard](https://carnegiemellon.shorthandstories.com/celery/index.html)
+[Shorthand Storyboard](https://carnegiemellon.shorthandstories.com/steady-increase-in-uber-fares-during-peak-season/index.html)
 
 ## User Research & Interviews 🕵️‍♀️
 
