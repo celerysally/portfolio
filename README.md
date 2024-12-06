@@ -17,4 +17,4 @@ Hi everyone, I am a graduate student at Carnegie Mellon University.
 3. Anything the class has to offer!
 
 # Portfolio
-Scroll down for more cool projects!
+Go check out my cool project about Steady Increase in Uber Fares between NYC and JFK/LGA!
