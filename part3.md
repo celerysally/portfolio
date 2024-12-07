@@ -92,7 +92,7 @@ In terms of design, I aimed for a balance between simplicity and aesthetics to c
 Given the data overload in our society, it is critical to transform complex numbers into simple visualizations, and this project made me appreciate the significance of perspective in storytelling. Furthermore, the multi-stage nature of this project helped me learn how to strategically plan and craft a narrative that leaves a lasting impression.
 
 
-## References 📖
+## References Part I, Part II, Part III 📖
 
 - Sea the City. "When Is the Best Time to Visit New York City?" Last modified November 23, 2024. [https://www.seathecity.com/when-is-the-best-time-to-visit-new-york-city/#:~:text=The%20peak%20tourism%20season%20in,the%20accommodations%20sell%20out%20quickly](https://www.seathecity.com/when-is-the-best-time-to-visit-new-york-city/#:~:text=The%20peak%20tourism%20season%20in,the%20accommodations%20sell%20out%20quickly).
 
