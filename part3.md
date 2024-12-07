@@ -23,7 +23,7 @@
 - I added a link for the new $18 Uber airport shuttle between NYC and LGA.
 
 <p align="center">
-<img src="https://github.com/celerysally/portfolio/blob/main/link.png" height=300>
+<img src="https://github.com/celerysally/portfolio/blob/main/newlink.png" height=300>
  </p>
 
 - I resized the data visualizations created on Tableau so that they would not fill the entire screen.
