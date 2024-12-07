@@ -18,25 +18,22 @@ Since the TLC's annual dataset was too large for my laptop to download and proce
 
 The next challenge was selecting the pick-up and drop-off locations within NYC. Given the city's robust metro system and my experience ubering between JFK, LGA, and other parts of Manhattan, I was able to narrow down the locations quickly. Although public transportation was an option, I often preferred Uber for its convenience, even though the fares never seemed to go down. I had also heard from friends that Uber fares in NYC had become absurdly high, which made me curious about why people were paying over $100 for a single ride. In that moment, I realized that this exploration would not only satisfy my own curiosity but also that of my classmates.
 
-Before working on Part 2 & Part 3, I wanted to have at least a broad idea of my target audience since it would be helpful to narrow down the subtopics efficiently. I decided to focus on two groups: travelers or tourists who frequently use Uber for airport transportation, and New Yorkers or commuters interested in understanding the cost of air travel and the convenience of rideshare services.
-
 While planning the data visualizations, I made sure to avoid overusing any particular type of chart. I consciously aimed to keep the variety of chart types in check, limiting each type to no more than three uses. Additionally, I thought carefully about color consistency, choosing a single color to emphasize key points throughout the visualizations. Moreover, I was exploring innovative ways that I could create unique types of data visualizations, not limiting myself only using Tableau.
 
 
 # Part II
 
-When I first started creating in Shorthand, I felt a bit lost navigating the platform, so it took me about a week or two to get fully comfortable with it. In addition, I was finding ways to convey the story to the audience, and even though it took time, I eventually stabilized the narrative by identifying the key factors to highlight. I had 7 main subtopics I wanted to cover: NYC tourist fun facts, Uber fare trends, Uber fare breakdown, gas price trends, gas breakdown, inflation trends, and a call to action. While I initially planned to include a gas breakdown, I ultimately removed it, as it seemed irrelevant to the core message. Although it might have offered an interesting insight, I chose to focus more on the underlying reasons behind the steady rise in Uber fares. That said, I did create pie charts for the gas breakdown, which turned out to be a valuable learning experience.
+When I first started creating in Shorthand, I felt a bit lost navigating the platform, so it took me about a week or two to get fully comfortable with it. In addition, I was finding ways to convey the story to the audience, and even though it took time, I eventually stabilized the narrative by identifying the key factors to highlight. I had 7 main subtopics I wanted to cover: NYC tourist fun facts, Uber fare trends, Uber fare breakdown, gas price trends, gas breakdown, inflation trends, and a call to action. While I initially planned to include a gas breakdown, I ultimately removed it, as it seemed irrelevant to the core message. Although it might have offered an interesting insight, I chose to focus more on the underlying reasons behind the steady rise in Uber fares. That said, I did create pie charts for the gas breakdown, which turned out to be a valuable learning experience. Additionally, creating a mood board allowed me to explore potential images that I could use alongside the graphs and content on Shorthand.
 
-For the target audience, I provided a detailed breakdown, including age range, geographic location, and one personality trait to help me better focus and tailor my message. This approach also guided me in selecting the right interviewees. During the interviews, I primarily asked about the data visualization I was working on, the target audience, and their experiences when visiting NYC. This interview process proved to be invaluable, as it provided me with useful insights to refine both the data visualizations and the content.
+As I worked on the data visualizations, I carefully considered the titles for each, wanting them to be both abstract and able to deliver a clear, compelling message. I also considered adding labels and descriptions but ultimately removed them, as they made the visuals feel too wordy.
 
-Additionally, creating the moodboard allowed me to explore potential images that I could use alongside the graphs and content on Shorthand.
-
+Furthermore, when selecting colors for the charts, I pondered whether to use a single color palette across all of them. However, given the variety of subtopics, I decided to differentiate the visualizations by assigning each a distinct color related to its specific theme.
 
 # Part III
 
 I struggled a bit with the order of the subtopics, especially when it came to the Uber fare trend and the Uber fare breakdown. At first, I planned to introduce the Uber fare trend first, but in the end, I decided to place the Uber fare breakdown before it for a smoother transition.
 
-I was also particular about choosing the background for each Shorthand page. Initially, I considered using only Uber-related images, but I ultimately decided on backgrounds that were not distracting from the graphs and content, while still being relevant to each subtopic.
+I was also particular about choosing the background for each Shorthand page. Initially, I considered using only Uber-related images, but I ultimately decided on backgrounds that were not distracting from the graphs and content while still being relevant to each subtopic.
 
 Moreover, I considered adding more subtopics, like congestion pricing or surge pricing, and explaining how they work. However, I felt these topics were a bit too distant from the main themes I wanted to focus on.
 
@@ -80,6 +77,10 @@ Moreover, I considered adding more subtopics, like congestion pricing or surge p
 ### The Audience 👥
 
 My target audience consists of travelers and tourists who often use Uber for airport transportation in June, as well as New Yorkers and commuters interested in the cost of rideshare services. The interview helped me narrow down my audience, as discussing the rise in Uber fares can be a broad topic. With this focus, I aimed to address the central question: "Why do Uber fares keep increasing?" Understanding my audience allowed me to tailor the content effectively, which in turn helped me deliver a more impactful presentation.
+
+Especially before working on Part 2 & Part 3, I wanted to have at least a broad idea of my target audience since it would be helpful to narrow down the subtopics efficiently. I decided to focus on two groups: travelers or tourists who frequently use Uber for airport transportation and New Yorkers or commuters interested in understanding the cost of air travel and the convenience of rideshare services.
+
+Later on, I provided a detailed breakdown, including age range, geographic location, and one personality trait to help me better focus and tailor my message. This approach also guided me in selecting the right interviewees. During the interviews, I primarily asked about the data visualization I was working on, the target audience, and their experiences when visiting NYC. This interview process proved to be invaluable, as it provided me with useful insights to refine both the data visualizations and the content.
 
 
 ### Design Decisions 🎨
