@@ -56,7 +56,8 @@ My target audience consists of travelers and tourists who often use Uber for air
 
 In terms of design, I aimed for a balance between simplicity and aesthetics to create an impactful experience during my 1-minute presentation. I avoided overwhelming the slides with text, focusing instead on a clean and appealing design that would resonate with the audience. Aligning the background of each section with the topic was key, such as using a picture of the Statue of Liberty when discussing interesting facts about visitors in NYC, which helped reinforce the theme. This approach minimized eye movement and allowed me to highlight the key message more effectively.
 
-## References
+
+## References 📖
 
 - Sea the City. "When Is the Best Time to Visit New York City?" Last modified November 23, 2024. [https://www.seathecity.com/when-is-the-best-time-to-visit-new-york-city/#:~:text=The%20peak%20tourism%20season%20in,the%20accommodations%20sell%20out%20quickly](https://www.seathecity.com/when-is-the-best-time-to-visit-new-york-city/#:~:text=The%20peak%20tourism%20season%20in,the%20accommodations%20sell%20out%20quickly).
 
@@ -83,6 +84,7 @@ In terms of design, I aimed for a balance between simplicity and aesthetics to c
 - Quora. "What Percentage Cut Does Uber Take from the Total Fare Cost of a Ride? Do They Subtract a Flat Fee for Each Dispatch or a Percentage? Are There Initiation or Monthly Fees to Be a Driver?" Accessed  November 27, 2024. [https://www.quora.com/What-percentage-cut-does-Uber-take-from-the-total-fare-cost-of-a-ride-Do-they-subtract-a-flat-fee-for-each-dispatch-or-a-percentage-Are-there-initiation-monthly-fees-to-be-a-driver](https://www.quora.com/What-percentage-cut-does-Uber-take-from-the-total-fare-cost-of-a-ride-Do-they-subtract-a-flat-fee-for-each-dispatch-or-a-percentage-Are-there-initiation-monthly-fees-to-be-a-driver).
 
 - Uber Technologies, Inc. "LaGuardia Airport Shuttle." Accessed December 1, 2024. [https://www.uber.com/global/en/r/airports/lga/shuttle/](https://www.uber.com/global/en/r/airports/lga/shuttle/).
+
 
 # Final thoughts
 
