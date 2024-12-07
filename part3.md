@@ -4,7 +4,7 @@
 # Part III: Final Project
 
 
-## [Steady Increase in Uber Fares](https://carnegiemellon.shorthandstories.com/steady-increase-in-uber-fares-during-peak-season/index.html) 📈
+## [Final Project Link: Steady Increase in Uber Fares](https://carnegiemellon.shorthandstories.com/steady-increase-in-uber-fares-during-peak-season/index.html) 📈
 
 
 ## Final Project Summary ✍🏻
