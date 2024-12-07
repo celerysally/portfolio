@@ -17,14 +17,14 @@
 - I changed some of the background images to align with each subtopic instead of making everything related to Uber.
 
 <p align="center">
-<img src="https://github.com/celerysally/portfolio/blob/main/bar.png" height=300>
+<img src="https://github.com/celerysally/portfolio/blob/main/gas.png" height=300>
  </p>
 
 - I added a link for the new $18 Uber airport shuttle between NYC and LGA.
 
 ![link](link.png)
 
-- I reduced the size of the data visualizations created on Tableau not to a full-screen size.
+- I resized the data visualizations created on Tableau so that they would not fill the entire screen.
   
 ![chart](chart.png)
 
