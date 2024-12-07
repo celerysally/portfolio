@@ -5,6 +5,21 @@
 
 ## [Steady Increase in Uber Fares](https://carnegiemellon.shorthandstories.com/steady-increase-in-uber-fares-during-peak-season/index.html)
 
+## Final Project Summary
+
+# Part I
+
+
+
+# Part II
+
+
+
+# Part III
+
+
+
+
 
 ## Final Data Story 
 
@@ -84,6 +99,20 @@ In terms of design, I aimed for a balance between simplicity and aesthetics to c
 - Quora. "What Percentage Cut Does Uber Take from the Total Fare Cost of a Ride? Do They Subtract a Flat Fee for Each Dispatch or a Percentage? Are There Initiation or Monthly Fees to Be a Driver?" Accessed  November 27, 2024. [https://www.quora.com/What-percentage-cut-does-Uber-take-from-the-total-fare-cost-of-a-ride-Do-they-subtract-a-flat-fee-for-each-dispatch-or-a-percentage-Are-there-initiation-monthly-fees-to-be-a-driver](https://www.quora.com/What-percentage-cut-does-Uber-take-from-the-total-fare-cost-of-a-ride-Do-they-subtract-a-flat-fee-for-each-dispatch-or-a-percentage-Are-there-initiation-monthly-fees-to-be-a-driver).
 
 - Uber Technologies, Inc. "LaGuardia Airport Shuttle." Accessed December 1, 2024. [https://www.uber.com/global/en/r/airports/lga/shuttle/](https://www.uber.com/global/en/r/airports/lga/shuttle/).
+
+- Unsplash. "A Car Parked in Front of an Airport." Last modified December 3, 2024. [https://unsplash.com/photos/a-car-parked-in-front-of-an-airport-zNeCv-nM7i0](https://unsplash.com/photos/a-car-parked-in-front-of-an-airport-zNeCv-nM7i0).
+
+- Check City. "What Causes Inflation in the Economy?" Accessed December 3, 2024. [https://www.checkcity.com/personal-finance/what-causes-inflation-in-the-economy](https://www.checkcity.com/personal-finance/what-causes-inflation-in-the-economy).
+
+- Unsplash. "A Gas Station at Night with a Lit-Up Gas Station." Last modified December 1, 2024. [https://unsplash.com/photos/a-gas-station-at-night-with-a-lit-up-gas-station-XrwoxDC2IK4](https://unsplash.com/photos/a-gas-station-at-night-with-a-lit-up-gas-station-XrwoxDC2IK4).
+
+- Unsplash. "A Close-Up of a Car's Tail Light." Last modified November 23, 2024. [https://unsplash.com/photos/a-close-up-of-a-cars-tail-light-3HL4_w75YgE](https://unsplash.com/photos/a-close-up-of-a-cars-tail-light-3HL4_w75YgE).
+
+- Unsplash. "1 USA Dollar Banknotes." Last modified December 2, 2024. [https://unsplash.com/photos/1-usa-dollar-banknotes-8lnbXtxFGZw](https://unsplash.com/photos/1-usa-dollar-banknotes-8lnbXtxFGZw).
+
+- Pixabay. "Statue of Liberty, New York." Last modified December 1, 2024. [https://pixabay.com/photos/statue-of-liberty-new-york-statue-267949/](https://pixabay.com/photos/statue-of-liberty-new-york-statue-267949/).
+
+- Unsplash. "A Large Sign on Top of a Large Building." Last modified December 1, 2024. [https://unsplash.com/photos/a-large-sign-on-top-of-a-large-building-Pea2f-U-fnY](https://unsplash.com/photos/a-large-sign-on-top-of-a-large-building-Pea2f-U-fnY).
 
 
 # Final thoughts
