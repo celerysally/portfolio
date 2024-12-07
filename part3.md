@@ -48,6 +48,8 @@ Moreover, I considered adding more subtopics, like congestion pricing or surge p
 
 - I rearranged the subtopics and used less complex Shorthand features.
 
+- I added citations for all of my facts and research on the bottom of the page under "Reference."
+
 - Rather than writing lengthy paragraphs, I aimed to convert the information into data visualizations. I also prioritized using bullet points over long blocks of text to enhance readability and clarity.
 
 - I removed the gas price breakdown since it was irrelevant.
