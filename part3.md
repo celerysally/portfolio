@@ -17,7 +17,7 @@
 - I changed some of the background images to align with each subtopic instead of making everything related to Uber.
 
 <p align="center">
-<img src="https://github.com/celerysally/portfolio/blob/main/gas.png" height=300>
+<img src="https://github.com/celerysally/portfolio/blob/main/gas.png" height=500>
  </p>
 
 - I added a link for the new $18 Uber airport shuttle between NYC and LGA.
