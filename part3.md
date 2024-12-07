@@ -29,22 +29,22 @@
 - I resized the data visualizations created on Tableau so that they would not fill the entire screen.
 
 <p align="center">
-<img src="https://github.com/celerysally/portfolio/blob/main/chart.png" height=300>
+<img src="https://github.com/celerysally/portfolio/blob/main/chart.png" height=500>
  </p>
 
 - I tried to place each data visualization under a title, subtitle, or an important fact.
 
 <p align="center">
-<img src="https://github.com/celerysally/portfolio/blob/main/chart1.png" height=300>
+<img src="https://github.com/celerysally/portfolio/blob/main/chart1.png" height=500>
  </p>
 
 - I added labels to the bars on the x-axis to make the variables more impactful. Additionally, I changed the color of the Uber fare section to light red and the others to gray so that I could emphasize the Uber fare.
 
 <p align="center">
-<img src="https://github.com/celerysally/portfolio/blob/main/viz.png" height=300>
+<img src="https://github.com/celerysally/portfolio/blob/main/viz.png" height=500>
  </p>
 <p align="center">
-<img src="https://github.com/celerysally/portfolio/blob/main/bar.png" height=300>
+<img src="https://github.com/celerysally/portfolio/blob/main/bar.png" height=500>
  </p>  
 
 ### The Audience 👥
