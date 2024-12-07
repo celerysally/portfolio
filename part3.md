@@ -146,6 +146,10 @@ Given the data overload in our society, it is critical to transform complex numb
 
 - Uber Technologies. Uber. Mobile app. Version 2024. iOS/Android. Accessed December 1, 2024.
 
+-  Uber Technologies, Inc. "How to Beat Surge Pricing in Alexandria." Uber Blog, April 27, 2022. [https://www.uber.com/en-EG/blog/beat-surge-in-alexandria/](https://www.uber.com/en-EG/blog/beat-surge-in-alexandria/).
+
+-  Kimberly, Marie. "JFK Airport to and from Brooklyn." TripSavvy, May 28, 2020. [https://www.tripsavvy.com/jfk-airport-to-and-from-brooklyn-441574](https://www.tripsavvy.com/jfk-airport-to-and-from-brooklyn-441574).
+
 
 ## Navigate 
 | [home page](https://celerysally.github.io/portfolio/README.md) | [visualizing debt](https://celerysally.github.io/portfolio/visualizing_debt.html) | [critique by design](https://celerysally.github.io/portfolio/critique_by_design.html) | [Final Project Part I](https://celerysally.github.io/portfolio/Part1FinalProject.html) | [Final Project Part II](https://celerysally.github.io/portfolio/part2.html) |
