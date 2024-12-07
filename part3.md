@@ -23,6 +23,10 @@ While planning the data visualizations, I made sure to avoid overusing any parti
 
 When I first started creating in Shorthand, I felt a bit lost navigating the platform, so it took me about a week or two to get fully comfortable with it. In addition, I was finding ways to convey the story to the audience, and even though it took time, I eventually stabilized the narrative by identifying the key factors to highlight. I had 7 main subtopics I wanted to cover: NYC tourist fun facts, Uber fare trends, Uber fare breakdown, gas price trends, gas breakdown, inflation trends, and a call to action. While I initially planned to include a gas breakdown, I ultimately removed it, as it seemed irrelevant to the core message. Although it might have offered an interesting insight, I chose to focus more on the underlying reasons behind the steady rise in Uber fares. That said, I did create pie charts for the gas breakdown, which turned out to be a valuable learning experience.
 
+For the target audience, I provided a detailed breakdown, including age range, geographic location, and one personality trait to help me better focus and tailor my message. This approach also guided me in selecting the right interviewees. During the interviews, I primarily asked about the data visualization I was working on, the target audience, and their experiences when visiting NYC. This interview process proved to be invaluable, as it provided me with useful insights to refine both the data visualizations and the content.
+
+Additionally, creating the moodboard allowed me to explore potential images that I could use alongside the graphs and content on Shorthand.
+
 # Part III
 
 I struggled a bit with the order of the subtopics, especially when it came to the Uber fare trend and the Uber fare breakdown. At first, I planned to introduce the Uber fare trend first, but in the end, I decided to place the Uber fare breakdown before it for a smoother transition.
