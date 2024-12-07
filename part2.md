@@ -72,7 +72,7 @@ Source:
 - Philadelphia International Airport. "Ride App Services." Accessed November 24, 2024. [https://www.phl.org/getting-around/ride-app-services](https://www.phl.org/getting-around/ride-app-services).
 
 ## Navigate 
-| [home page](https://celerysally.github.io/portfolio/home_page.md) | [visualizing debt](https://celerysally.github.io/portfolio/visualizing_debt.html) | [critique by design](https://celerysally.github.io/portfolio/critique_by_design.html) | [Final Project Part I](https://celerysally.github.io/portfolio/Part1FinalProject.html) | [Final Project Part III](https://celerysally.github.io/portfolio/final_project_III.md) |
+| [home page](https://celerysally.github.io/portfolio/home_page.md) | [visualizing debt](https://celerysally.github.io/portfolio/visualizing_debt.html) | [critique by design](https://celerysally.github.io/portfolio/critique_by_design.html) | [Final Project Part I](https://celerysally.github.io/portfolio/Part1FinalProject.html) | [Final Project Part III](https://celerysally.github.io/portfolio/part3.html) |
 
 
 
