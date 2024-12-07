@@ -3,25 +3,36 @@
 
 # Part III: Final Project
 
-## [Steady Increase in Uber Fares](https://carnegiemellon.shorthandstories.com/steady-increase-in-uber-fares-during-peak-season/index.html)
+## [Steady Increase in Uber Fares](https://carnegiemellon.shorthandstories.com/steady-increase-in-uber-fares-during-peak-season/index.html) 📈
 
-## Final Project Summary
+## Final Project Summary ✍🏻
 
 # Part I
 
+When selecting a topic, I aimed to focus on something that the class could easily relate to and find interesting, while also revealing lesser-known facts. I chose to explore the steady increase in Uber fares over the years, providing a clear breakdown of the costs and uncovering the reasons behind these price hikes. Deciding on the location was more challenging, as I was torn between Pittsburgh and New York City. Ultimately, I chose NYC because the TLC (Taxi and Limousine Commission) provides a wealth of public data, breaking down transportation metrics by month, including taxis, for-hire rides, and more. This made New York City the perfect choice for my final project. Since the TLC's annual dataset was too large for my laptop to download and process, I decided to focus on a specific month. After researching peak tourist seasons, I discovered that June is one of the highest-volume months for tourism in NYC. I chose June as the timeframe for analyzing Uber fares, gas prices, and other related data.
 
+Since the TLC's annual dataset was too large for my laptop to download and process, I decided to focus on a specific month. After researching peak tourist seasons, I discovered that June is one of the highest-volume months for tourism in NYC. As a result, I chose June as the timeframe for analyzing Uber fares, gas prices, and other related data.
+
+The next challenge was selecting the pick-up and drop-off locations within NYC. Given the city's robust metro system and my experience Ubering between JFK, LGA, and other parts of Manhattan, I was able to narrow down the locations quickly. Although public transportation was an option, I often preferred Uber for its convenience, even though the fares never seemed to go down. I had also heard from friends that Uber fares in NYC had become absurdly high, which made me curious about why people were paying over $100 for a single ride. In that moment, I realized that this exploration would not only satisfy my own curiosity but also that of my classmates.
+
+Before working on Part 2 & Part 3, I wanted to have at least a broad idea of my target audience since it would be helpful to narrow down the subtopics efficiently. I decided to focus on two groups: travelers or tourists who frequently use Uber for airport transportation, and New Yorkers or commuters interested in understanding the cost of air travel and the convenience of rideshare services.
+
+While planning the data visualizations, I made sure to avoid overusing any particular type of chart. I consciously aimed to keep the variety of chart types in check, limiting each type to no more than three uses. Additionally, I thought carefully about color consistency, choosing a single color to emphasize key points throughout the visualizations. Moreover, I was exploring innovative ways that I could create unique types of data visualizations, not limiting myself only using Tableau.
 
 # Part II
 
-
+When I first started creating in Shorthand, I felt a bit lost navigating the platform, so it took me about a week or two to get fully comfortable with it. In addition, I was finding ways to convey the story to the audience, and even though it took time, I eventually stabilized the narrative by identifying the key factors to highlight. I had 7 main subtopics I wanted to cover: NYC tourist fun facts, Uber fare trends, Uber fare breakdown, gas price trends, gas breakdown, inflation trends, and a call to action. While I initially planned to include a gas breakdown, I ultimately removed it, as it seemed irrelevant to the core message. Although it might have offered an interesting insight, I chose to focus more on the underlying reasons behind the steady rise in Uber fares. That said, I did create pie charts for the gas breakdown, which turned out to be a valuable learning experience.
 
 # Part III
 
+I struggled a bit with the order of the subtopics, especially when it came to the Uber fare trend and the Uber fare breakdown. At first, I planned to introduce the Uber fare trend first, but in the end, I decided to place the Uber fare breakdown before it for a smoother transition.
+
+I was also particular about choosing the background for each Shorthand page. Initially, I considered using only Uber-related images, but I ultimately decided on backgrounds that were not distracting from the graphs and content, while still being relevant to each subtopic.
+
+Moreover, I considered adding more subtopics, like congestion pricing or surge pricing, and explaining how they work. However, I felt these topics were a bit too distant from the main themes I wanted to focus on.
 
 
-
-
-## Final Data Story 
+## Final Data Story 📓
 
 ### Changes I Made Since Part II ✔️
 
@@ -114,8 +125,24 @@ In terms of design, I aimed for a balance between simplicity and aesthetics to c
 
 - Unsplash. "A Large Sign on Top of a Large Building." Last modified December 1, 2024. [https://unsplash.com/photos/a-large-sign-on-top-of-a-large-building-Pea2f-U-fnY](https://unsplash.com/photos/a-large-sign-on-top-of-a-large-building-Pea2f-U-fnY).
 
+- Lerman, Rachel. "Inflation Is Driving Up Costs for Gig Economy Workers. Here's How They’re Coping." The Washington Post, August 7, 2022. [https://www.washingtonpost.com/technology/2022/08/07/gig-economy-inflation/](https://www.washingtonpost.com/technology/2022/08/07/gig-economy-inflation/).
 
-# Final thoughts
+- Browning, Kellen. "Why Gas Prices Are Driving Uber and Lyft Prices Higher." The New York Times, March 17, 2022. [https://www.nytimes.com/2022/03/17/technology/gas-prices-uber-lyft-drivers.html](https://www.nytimes.com/2022/03/17/technology/gas-prices-uber-lyft-drivers.html).
+
+- Palmer, Annie. "Soaring Gas Prices Are Forcing Some Uber, Lyft Drivers off the Road." CNBC, April 13, 2022. [https://www.cnbc.com/2022/04/13/soaring-gas-prices-are-forcing-some-uber-lyft-drivers-off-the-road.html](https://www.cnbc.com/2022/04/13/soaring-gas-prices-are-forcing-some-uber-lyft-drivers-off-the-road.html).
+
+- Uber. "New Fuel Surcharge." Uber Newsroom. Accessed December 1, 2024. [https://www.uber.com/newsroom/new-fuel-surcharge/#:~:text=While%20earnings%20on%20our%20platform,out%20a%20temporary%20fuel%20surcharge](https://www.uber.com/newsroom/new-fuel-surcharge/#:~:text=While%20earnings%20on%20our%20platform,out%20a%20temporary%20fuel%20surcharge).
+
+- Fuel Logic. "How U.S. Gas Prices Affect the Overall Economy." Accessed December 1, 2024. [https://www.fuellogic.net/how-us-gas-prices-affect-the-overall-economy/#:~:text=Fluctuations%20in%20crude%20oil%20prices,distribution%20costs%20also%20impact%20prices](https://www.fuellogic.net/how-us-gas-prices-affect-the-overall-economy/#:~:text=Fluctuations%20in%20crude%20oil%20prices,distribution%20costs%20also%20impact%20prices).
+
+- Google Flights. Accessed December 1, 2024. [https://www.google.com/travel/flights?sca_esv=31e750890f4bca3b&rlz=1C5CHFA_enKR1057KR1065&sxsrf=ADLYWIJsvLlPtWYLJ9QsyJ1wjxt5NfFHiA%3A1733548109776&source=flun&uitype=cuAA&hl=en&gl=us&curr=USD&tfs=CAEQAhoeEgoyMDI1LTAxLTA5agcIARIDUElUcgcIARIDSkZLGh4SCjIwMjUtMDEtMTNqBwgBEgNKRktyBwgBEgNQSVR6aENqUklMWE5FT1hkZk4yeFpWRUZCUTNaV2JsRkNSeTB0TFMwdExTMHRMUzEyZDNsak5FRkJRVUZCUjJSVU1rVXdUbmxvWTJkQkVnTnVRVUVhQ3dqTWhRRVFBaG9EVlZORU9EQnd6SVVC](https://www.google.com/travel/flights?sca_esv=31e750890f4bca3b&rlz=1C5CHFA_enKR1057KR1065&sxsrf=ADLYWIJsvLlPtWYLJ9QsyJ1wjxt5NfFHiA%3A1733548109776&source=flun&uitype=cuAA&hl=en&gl=us&curr=USD&tfs=CAEQAhoeEgoyMDI1LTAxLTA5agcIARIDUElUcgcIARIDSkZLGh4SCjIwMjUtMDEtMTNqBwgBEgNKRktyBwgBEgNQSVR6aENqUklMWE5FT1hkZk4yeFpWRUZCUTNaV2JsRkNSeTB0TFMwdExTMHRMUzEyZDNsak5FRkJRVUZCUjJSVU1rVXdUbmxvWTJkQkVnTnVRVUVhQ3dqTWhRRVFBaG9EVlZORU9EQnd6SVVC).
+
+- Uber Technologies. Uber. Mobile app. Version 2024. iOS/Android. Accessed December 1, 2024.
+
+# Final thoughts 🤔
+
+
+
 
 
 ## Navigate 
