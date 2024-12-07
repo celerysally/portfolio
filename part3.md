@@ -3,9 +3,12 @@
 
 # Part III: Final Project
 
+
 ## [Steady Increase in Uber Fares](https://carnegiemellon.shorthandstories.com/steady-increase-in-uber-fares-during-peak-season/index.html) 📈
 
+
 ## Final Project Summary ✍🏻
+
 
 # Part I
 
@@ -19,6 +22,7 @@ Before working on Part 2 & Part 3, I wanted to have at least a broad idea of my 
 
 While planning the data visualizations, I made sure to avoid overusing any particular type of chart. I consciously aimed to keep the variety of chart types in check, limiting each type to no more than three uses. Additionally, I thought carefully about color consistency, choosing a single color to emphasize key points throughout the visualizations. Moreover, I was exploring innovative ways that I could create unique types of data visualizations, not limiting myself only using Tableau.
 
+
 # Part II
 
 When I first started creating in Shorthand, I felt a bit lost navigating the platform, so it took me about a week or two to get fully comfortable with it. In addition, I was finding ways to convey the story to the audience, and even though it took time, I eventually stabilized the narrative by identifying the key factors to highlight. I had 7 main subtopics I wanted to cover: NYC tourist fun facts, Uber fare trends, Uber fare breakdown, gas price trends, gas breakdown, inflation trends, and a call to action. While I initially planned to include a gas breakdown, I ultimately removed it, as it seemed irrelevant to the core message. Although it might have offered an interesting insight, I chose to focus more on the underlying reasons behind the steady rise in Uber fares. That said, I did create pie charts for the gas breakdown, which turned out to be a valuable learning experience.
@@ -26,6 +30,7 @@ When I first started creating in Shorthand, I felt a bit lost navigating the pla
 For the target audience, I provided a detailed breakdown, including age range, geographic location, and one personality trait to help me better focus and tailor my message. This approach also guided me in selecting the right interviewees. During the interviews, I primarily asked about the data visualization I was working on, the target audience, and their experiences when visiting NYC. This interview process proved to be invaluable, as it provided me with useful insights to refine both the data visualizations and the content.
 
 Additionally, creating the moodboard allowed me to explore potential images that I could use alongside the graphs and content on Shorthand.
+
 
 # Part III
 
@@ -37,6 +42,7 @@ Moreover, I considered adding more subtopics, like congestion pricing or surge p
 
 
 ## Final Data Story 📓
+
 
 ### Changes I Made Since Part II ✔️
 
@@ -79,6 +85,7 @@ Moreover, I considered adding more subtopics, like congestion pricing or surge p
 <img src="https://github.com/celerysally/portfolio/blob/main/bar.png" height=500>
  </p>  
 
+
 ### The Audience 👥
 
 My target audience consists of travelers and tourists who often use Uber for airport transportation in June, as well as New Yorkers and commuters interested in the cost of rideshare services. The interview helped me narrow down my audience, as discussing the rise in Uber fares can be a broad topic. With this focus, I aimed to address the central question: "Why do Uber fares keep increasing?" Understanding my audience allowed me to tailor the content effectively, which in turn helped me deliver a more impactful presentation.
@@ -87,6 +94,11 @@ My target audience consists of travelers and tourists who often use Uber for air
 ### Design Decisions 🎨
 
 In terms of design, I aimed for a balance between simplicity and aesthetics to create an impactful experience during my 1-minute presentation. I avoided overwhelming the slides with text, focusing instead on a clean and appealing design that would resonate with the audience. Aligning the background of each section with the topic was key, such as using a picture of the Statue of Liberty when discussing interesting facts about visitors in NYC, which helped reinforce the theme. This approach minimized eye movement and allowed me to highlight the key message more effectively.
+
+
+# Final thoughts 🤔
+
+Given the data overload in our society, it is critical to transform complex numbers into simple visualizations, and this project made me appreciate the significance of perspective in storytelling. Furthermore, the multi-stage nature of this project helped me learn how to strategically plan and craft a narrative that leaves a lasting impression.
 
 
 ## References 📖
@@ -144,11 +156,6 @@ In terms of design, I aimed for a balance between simplicity and aesthetics to c
 - Google Flights. Accessed December 1, 2024. [https://www.google.com/travel/flights?sca_esv=31e750890f4bca3b&rlz=1C5CHFA_enKR1057KR1065&sxsrf=ADLYWIJsvLlPtWYLJ9QsyJ1wjxt5NfFHiA%3A1733548109776&source=flun&uitype=cuAA&hl=en&gl=us&curr=USD&tfs=CAEQAhoeEgoyMDI1LTAxLTA5agcIARIDUElUcgcIARIDSkZLGh4SCjIwMjUtMDEtMTNqBwgBEgNKRktyBwgBEgNQSVR6aENqUklMWE5FT1hkZk4yeFpWRUZCUTNaV2JsRkNSeTB0TFMwdExTMHRMUzEyZDNsak5FRkJRVUZCUjJSVU1rVXdUbmxvWTJkQkVnTnVRVUVhQ3dqTWhRRVFBaG9EVlZORU9EQnd6SVVC](https://www.google.com/travel/flights?sca_esv=31e750890f4bca3b&rlz=1C5CHFA_enKR1057KR1065&sxsrf=ADLYWIJsvLlPtWYLJ9QsyJ1wjxt5NfFHiA%3A1733548109776&source=flun&uitype=cuAA&hl=en&gl=us&curr=USD&tfs=CAEQAhoeEgoyMDI1LTAxLTA5agcIARIDUElUcgcIARIDSkZLGh4SCjIwMjUtMDEtMTNqBwgBEgNKRktyBwgBEgNQSVR6aENqUklMWE5FT1hkZk4yeFpWRUZCUTNaV2JsRkNSeTB0TFMwdExTMHRMUzEyZDNsak5FRkJRVUZCUjJSVU1rVXdUbmxvWTJkQkVnTnVRVUVhQ3dqTWhRRVFBaG9EVlZORU9EQnd6SVVC).
 
 - Uber Technologies. Uber. Mobile app. Version 2024. iOS/Android. Accessed December 1, 2024.
-
-# Final thoughts 🤔
-
-
-
 
 
 ## Navigate 
