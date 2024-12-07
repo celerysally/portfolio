@@ -152,6 +152,13 @@ Given the data overload in our society, it is critical to transform complex numb
 
 -  Kimberly, Marie. "JFK Airport to and from Brooklyn." TripSavvy, May 28, 2020. [https://www.tripsavvy.com/jfk-airport-to-and-from-brooklyn-441574](https://www.tripsavvy.com/jfk-airport-to-and-from-brooklyn-441574).
 
+-  Gali. Jordi. and David López-Salido. "Monetary Policy Responses to Post-Pandemic Inflation: Challenges and Lessons for the Future." VoxEU. Center for Economic and Policy Research. August 4. 2022. [https://cepr.org/voxeu/columns/monetary-policy-responses-post-pandemic-inflation-challenges-and-lessons-future](https://cepr.org/voxeu/columns/monetary-policy-responses-post-pandemic-inflation-challenges-and-lessons-future).
+
+-  Federal Reserve. "Inflationary Pressures and Their Impact on the U.S. Economy." Federal Reserve Report, August 2021. [https://www.federalreserve.gov](https://www.federalreserve.gov).
+
+-  U.S. Bureau of Labor Statistics. "What Caused the High Inflation During the COVID-19 Period?" Monthly Labor Review, 2023. [https://www.bls.gov/opub/mlr/2023/beyond-bls/what-caused-the-high-inflation-during-the-covid-19-period.htm#:~:text=The%20combined%20effects%20of%20increased,through%20the%20end%20of%202022](https://www.bls.gov/opub/mlr/2023/beyond-bls/what-caused-the-high-inflation-during-the-covid-19-period.htm#:~:text=The%20combined%20effects%20of%20increased,through%20the%20end%20of%202022).
+
+- U.S. Bureau of Labor Statistics. "Purchasing Power and Constant Dollars." Consumer Price Index Fact Sheets. Accessed December 1, 2024. [https://www.bls.gov/cpi/factsheets/purchasing-power-constant-dollars.htm](https://www.bls.gov/cpi/factsheets/purchasing-power-constant-dollars.htm).
 
 ## Navigate 
 | [home page](https://celerysally.github.io/portfolio/README.md) | [visualizing debt](https://celerysally.github.io/portfolio/visualizing_debt.html) | [critique by design](https://celerysally.github.io/portfolio/critique_by_design.html) | [Final Project Part I](https://celerysally.github.io/portfolio/Part1FinalProject.html) | [Final Project Part II](https://celerysally.github.io/portfolio/part2.html) |
