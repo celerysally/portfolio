@@ -5,7 +5,7 @@
 
 
 ## Topic: Steady Increase in Uber Fares in New York City During Peak Season 🚕
-## Outline 
+## Outline
 
 **High-level Summary 📝**
 
