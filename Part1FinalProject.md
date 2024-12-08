@@ -105,4 +105,4 @@ For the completion of my project, I will be using the tools below:
   - To create tailored visuals that complement and strengthen my story arc
 
 ## Navigate 
-| [home page](https://celerysally.github.io/portfolio/README.md) | [visualizing debt](https://celerysally.github.io/portfolio/visualizing_debt.html) | [critique by design](https://celerysally.github.io/portfolio/critique_by_design.html) | [Final Project Part II](https://celerysally.github.io/portfolio/part2.html) | [Final Project Part III](https://celerysally.github.io/portfolio/part3.html) |
+| [home page](https://celerysally.github.io/portfolio/) | [visualizing debt](https://celerysally.github.io/portfolio/visualizing_debt.html) | [critique by design](https://celerysally.github.io/portfolio/critique_by_design.html) | [Final Project Part II](https://celerysally.github.io/portfolio/part2.html) | [Final Project Part III](https://celerysally.github.io/portfolio/part3.html) |
