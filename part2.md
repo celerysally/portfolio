@@ -1,7 +1,7 @@
 ---
 ---
 
-# Part II: Final Project
+# Part II: Final Project 
 
 ## Storyboard ✍️
 [Shorthand Storyboard](https://carnegiemellon.shorthandstories.com/steady-increase-in-uber-fares-during-peak-season/index.html)
